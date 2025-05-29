@@ -1,0 +1,20 @@
+Type,Value,Concentration,SampleName
+Background,0.16,,
+Background,0.163,,
+Background,0.158,,
+Control_100,0.84,,
+Control_100,0.764,,
+Control_100,0.86,,
+Sample,0.243,400,Leonotis L
+Sample,0.25,400,Leonotis L
+Sample,0.3,200,Leonotis L
+Sample,0.305,200,Leonotis L
+Sample,0.321,100,Leonotis L
+Sample,0.318,100,Leonotis L
+Sample,0.341,50,Leonotis L
+Sample,0.343,50,Leonotis L
+Sample,0.75,1000,Compound Y
+Sample,0.78,1000,Compound Y
+Sample,0.6,5000,Compound Y
+Sample,0.62,5000,Compound Y
+...,...,...,...
